@@ -1,2 +1,1 @@
-print("Suttu shotta")
-print Hello
+print("Hello world")
